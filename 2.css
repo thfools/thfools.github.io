@@ -21,7 +21,7 @@ div.left{
 	height:1032px;
 	overflow:hidden;
 	color:rgb(255,255,255);
-	padding:50px 20px 20px 20px;
+	padding:60px 20px 20px 20px;
 	float:left;
 	margin-top:0px;
 	line-height:0em;
@@ -35,7 +35,7 @@ p.name{
 div.right{
     float:left;
 	width:60%;
-	height:1100px;
+	height:1111px;
 	overflow:hidden;
 	background-color:rgb(240,240,240);
 	color:rgb(255,255,255);
@@ -47,8 +47,8 @@ div.right{
 }
 
 img{
-	width:100px;
-	height:100px;
+	width:120px;
+	height:120px;
 	border-radius:50%;
 	
 }
